@@ -5,7 +5,7 @@ a graphical UI. You review the state of inputs, and click the switches to contro
 the state of outputs.
 
 ## Introduction
-
+这个demo是用来显示有什么GPIO,以及如何控制一个GPIO端口
 This utility shows on the attached display Android [Switch][switch-ref] widgets for each GPIO pin exported by the board.
 
 When you click or tap on the switch, the GPIO active status switch from HIGH to LOW according to the widget state.
